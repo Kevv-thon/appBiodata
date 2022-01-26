@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kelas_telkom">
+        <item>XIR1</item>
+        <item>XIR2</item>
+        <item>XIR3</item>
+        <item>XIR4</item>
+        <item>XIR5</item>
+        <item>XIR6</item>
+        <item>XIR7</item>
+        <item>XIR8</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="name">Nama</string>
+    <string name="ttl">TTL</string>
+    <string name="klass">Kelas</string>
+    <string name="address">Alamat</string>
+    <string name="hobby">Hobi</string>
+    <string name="save">Save</string>
+    <string name="result">Biodata</string>>
+
+</resources>
