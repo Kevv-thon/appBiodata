@@ -1,1 +1,2 @@
-![](appBiodata/johnthor.png)
+﻿# appBiodata
+![](Images/johnthor.png)
