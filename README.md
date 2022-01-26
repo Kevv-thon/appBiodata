@@ -1,1 +1,1 @@
-![](master/johnthor.PNG)
+![](appBiodata/johnthor.PNG)
