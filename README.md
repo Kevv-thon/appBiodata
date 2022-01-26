@@ -1,2 +1,2 @@
 ﻿# appBiodata
-![](Images/johnthor.png)
+![](Images/johnthor.PNG)
